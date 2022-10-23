@@ -19,6 +19,6 @@ A very simple event online booking system. Very basic UI/UX
 clone this project by typing in the bash the following command:
 
 ```bash
-git clone https://github.com/NoelH98/php_mysql_online_booking_ystem_no_ui.git
+git clone https://github.com/NoelH98/php_mysql_online_booking_system_no_ui.git
 ```
 3: Import the database(/database folder) into a mysql server host  and access the website from your preferred browser:D
